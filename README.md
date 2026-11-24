@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Meysam%20Tofiq&fontSize=42&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20%7C%20Desktop%20%26%20Web%20Automation&descSize=18&descAlignY=62" width="100%" />
 
-# 👋 سلام، میسام توفيق هستم
+# 👋 سلام، میثم توفیق هستم
 
 **توسعه‌دهنده نرم‌افزارهای ویندوز، وب و اتوماسیون**
 
